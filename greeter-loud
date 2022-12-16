@@ -1,0 +1,8 @@
+import { Greeter } from "./greeter0-parent";
+
+class LoudGreeter extends Greeter {
+
+}
+
+
+export { LoudGreeter };
